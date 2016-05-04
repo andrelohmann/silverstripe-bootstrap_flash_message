@@ -1,0 +1,17 @@
+{
+    "name": "andrelohmann-silverstripe/bootstrap_flash_message",
+    "description": "Create flash messages with bootstrap alert UI.",
+    "license": "BSD-3-Clause",
+    "keywords": ["silverstripe", "framework"],
+    "authors": [
+        {
+            "name": "Andre Lohmann",
+            "homepage": "https://github.com/andrelohmann"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "composer/installers": "*"
+    },
+    "minimum-stability": "stable"
+}
