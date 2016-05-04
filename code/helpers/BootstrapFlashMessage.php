@@ -8,7 +8,7 @@ class BootstrapFlashMessage {
 	protected static $message = null;
 	
 	public static function set($message, $type){
-		if(!in_array('type', array(
+		if(!in_array($type, array(
 			'success',
 			'info',
 			'warning',
