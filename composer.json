@@ -1,8 +1,9 @@
 {
     "name": "andrelohmann-silverstripe/bootstrap_flash_message",
     "description": "Create flash messages with bootstrap alert UI.",
+    "type": "silverstripe-module",
     "license": "BSD-3-Clause",
-    "keywords": ["silverstripe", "framework"],
+    "keywords": ["silverstripe", "bootstrap"],
     "authors": [
         {
             "name": "Andre Lohmann",
