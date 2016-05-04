@@ -1,0 +1,5 @@
+name: bootstrap-flash-message
+---
+Controller:
+  extensions:
+    - BootstrapFlashMessageControllerExtension
