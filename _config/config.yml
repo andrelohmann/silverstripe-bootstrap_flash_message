@@ -1,5 +1,5 @@
 name: bootstrap-flash-message
 ---
-Controller:
+SilverStripe\Control\Controller:
   extensions:
     - BootstrapFlashMessageControllerExtension
