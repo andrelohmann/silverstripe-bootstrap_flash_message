@@ -7,7 +7,7 @@
 
 ## Requirements
 
-Silverstripe 3.3.x
+Silverstripe 4.0.0
 
 ## Introduction
 
